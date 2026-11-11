@@ -203,4 +203,6 @@ Chapter_15_Power_BI_Dashboard/
 
 ## Author
 
-Built as part of the Codebasics Power BI course, Chapter 15.
+@galibmulani
+Aspiring Data Analyst
+Linkedin: https://www.linkedin.com/in/galib-mulani-5005aa184/
