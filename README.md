@@ -141,7 +141,7 @@ Forecast vs actual sales quantity with accuracy, net error, absolute error, tole
 - `Report Measures` (109 measures), `Tolerance Limit`, P&L row/column helpers, parameter tables for field switching (Sales, Marketing, Executive), `LastSalesMonth`, `Refresh Date`
 
 ---
-![Data Model image](Screenshot (77).png)
+![Data Model image](Screenshot_Data_Model.png)
 
 
 ## Forecast Accuracy: Net Error vs ABS Error
