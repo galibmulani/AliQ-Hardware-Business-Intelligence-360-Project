@@ -12,9 +12,6 @@ BI 360 delivers this: one Power BI report for Finance, Sales, Marketing, Supply 
 
 An end-to-end business intelligence report built in Power BI for **AtliQ Hardware**, covering Finance, Sales, Marketing, Supply Chain and Executive views from a single semantic model (FY2018 – FY2025).
 
-> **File:** `BI 360 New.pbix`
-> **Local path:** `D:\Codebasics\powerbi\Chapter_15_Power_BI_Dashboard`
-
 ---
 
 ## Table of Contents
