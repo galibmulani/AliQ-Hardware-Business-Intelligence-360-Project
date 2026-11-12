@@ -183,10 +183,8 @@ Forecast vs actual sales quantity with accuracy, net error, absolute error, tole
 
 ```
 Chapter_15_Power_BI_Dashboard/
-├── BI 360 New.pbix        # Power BI report
 ├── README.md              # This file
-└── docs/
-    └── screenshots/       # Add page screenshots here
+└── Screenshot_Data_Model.png
 ```
 
 ---
